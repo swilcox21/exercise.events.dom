@@ -3,6 +3,4 @@ window.onload = function myLoadFunction() {
 	//some code here
 };
 
-window.onclick = function myClick() {
-	alert("wuju");
-};
+//the listener function here
